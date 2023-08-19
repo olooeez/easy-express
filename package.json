@@ -1,0 +1,21 @@
+{
+  "name": "easy-express",
+  "version": "1.0.0",
+  "description": "um repositorio para testar uma API criada com Express ",
+  "main": "src/server.mjs",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Luiz Felipe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.1"
+  }
+}
